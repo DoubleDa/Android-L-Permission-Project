@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>获取所有权限</item>
+        <item>获取读SD卡权限</item>
+        <item>获取读IMEI权限</item>
+        <item>获取拨打电话权限</item>
+    </string-array>
+</resources>
